@@ -25,6 +25,7 @@ void age(int pd, int pm, int py,int bd, int bm, int by)
   cout << "your age is : \n";
   cout << y << " years " << m << " months " << d << " days. ";
 }
+
 int main()
 {
   int pd, pm, py, bd, bm, by;
