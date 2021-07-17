@@ -1,4 +1,4 @@
-//Sikandar Ali ROll # 44 & Aleem Memon, Roll # 6
+//Sikandar Ali, 2K20/MSCS/44 & Aleem Memon, 2K20/MSCS/6
 
 #include <iostream>
 using namespace std;
